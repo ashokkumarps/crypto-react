@@ -1,0 +1,12 @@
+node_modules
+dist
+.idea
+.DS_Store
+yarn-error.log
+
+# Ignoring .iml files (IntelliJ)
+*.iml
+.tmp/
+
+package-lock.json
+yarn.lock
